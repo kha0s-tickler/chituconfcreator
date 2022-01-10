@@ -1,0 +1,61 @@
+Manufacturer,Resin type,Resin description,Layer height,Bottom layer count,Bottom exposure time (s),Exposure time (s),Light off delay (s),Bottom light off delay (s),Slicer
+AmeraLabs,AMD-3,Coal Blk,0.05mm,4,45,5,0,0,ChiTuBox
+Anycubic,Basic,Black,0.02mm,10,60,7,0,0,ChiTuBox
+Anycubic,Basic,Black,0.05mm,8,70,11,0,0,ChiTuBox
+Anycubic,"All Natural, No Odor",Violet,0.05mm,6,72,10,0,0,ChiTuBox
+Anycubic,"All Natural, No Odor",Bright Green,0.05mm,6,65,11,0,0,ChiTuBox
+Anycubic,"All Natural, No Odor",Baby Blue,0.05mm,6,70,10,0,0,ChiTuBox
+Anycubic,Basic,Skin Tone,0.05mm,5,60,8,0,0,ChiTuBox
+Anycubic,Basic,Maroon,0.05mm,10,80,8,0,0,Chitubox
+Anycubic,Basic,Aqua Blue,0.05mm,6,60,12,0,0,Chitubox
+Anycubic,Basic,Translucent Yellow,0.05mm,6,65,12,0,0,Chitubox
+Anycubic,Basic,Orange,0.05mm,8,75,8,0,0,Chitubox
+Anycubic,Basic,Clear,0.05mm,5,60,7,0,0,Chitubox
+Anycubic,Basic,Grey,0.04mm,6,60,12,0,0,Chitubox
+BlueCast,Castable,Purple,0.05mm,5,65,11,0.2,1,Chitubox
+Dragon Resin ,Basic,Clear Blue,0.05mm,5,60,8,0,0,ChituBox
+Elegoo,Basic,Clear,0.05mm,8,65,7,0,0,ChituBox
+Elegoo,Basic (ABS-Like),Clear,0.05mm,5,70,18,0,0,ChituBox
+Elegoo,Basic,Clear Red,0.04mm,6,60,8,0,0,ChituBox
+Elegoo,Basic (ABS-Like),Clear Red,0.05mm,8,80,10,0,0,ChituBox
+Elegoo,Basic,Black 1,0.05mm,5,60,8,0,0,ChituBox
+Elegoo,Basic (ABS-Like),Clear Blue,0.05,8,85,12,0,0,AnyCubic
+Elegoo,Basic,Green,0.05mm,5,60,8,0,0,Chitubox
+Elegoo,ABS-Like,Grey,0.05mm,8,55,8,0,0,ChituBox
+Elegoo,ABS-Like,Clear,0.05mm,20,90,20,0,0,ChituBox
+Elegoo,Basic,Grey,0.05mm,5,60,8,0,0,ChituBox
+Elegoo,Basic,White e Traslucent(ale),0.05mm,10,75,11,0,0,ChituBox
+Elegoo,Basic,Skin,0.05mm,6,65(70),9,0,0,Chitubox
+Elegoo,Model - ODORLESSS,Ceramic Grey,0.05mm,6,65,6,0,0,ChituBox
+eSun,Basic,Translucent,0.05mm,5,70,12,0,0,ChituBox
+eSun,Bio,Black,0.05mm,5,60,8,0,0,ChituBox
+eSun,Standard,Orange,0.05mm,5,60,8,0,0,ChituBox
+eSun,Standard,Grey,0.05mm,6,60,8,0,0,ChituBox
+Harzlabs,,Cherry,0.05mm,8,85,11,0,0,ChituBox
+Hieha,Basic,Grey6,0.05mm,5,60,8,0,0,ChituBox
+iFun,Basic,Clear,0.05mm,10,75,15,0,0,ChituBox
+LiqCreate Strong-X,Tough Resin,Grey,0.05mm,2,120,23,2,0,ChituBox
+Nova3D,Basic,Clear Green,0.05mm,8,65,9,0,0,ChituBox
+Nova3D,Basic,Clear,0.05mm,10,75,8,0,0,ChituBox
+Monocure,Rapid,Green,0.04mm,5,85,10,0,0,ChituBox
+Monocure,Rapid,Grey,0.05mm,5,65,5,0,0,ChituBox
+MakerJuice WaxCast,Castable Resin,Orange,0.025mm,5,90,30-50?,,,ChituBox
+PhotoCentric 3D,Firm Resin DLP Printers,White,0.05mm,6,90,18,0,0,ChituBox
+PhotoCentric 3D,Hard LCD resin,Black,0.05mm,4,48,15,4,4,ChiTuBox
+PhotoCentric 3D,Flexible LCD resin,Black,0.05mm,8,120,17,5,5,ChiTuBox
+PhotoCentric 3D,Firm LCD resin,Black,0.05mm,4,48,12,4,4,ChiTuBox
+PowerCast,Castable Resin,BURN Opaque - Green,0.05mm,8,80,14,0,0,ChituBox
+Prusa,Tough,White,0.05mm,,,11,0,0,
+Prusa,Tough,Gray,0.05mm,,,13,0,0,
+ResinWorks 3D,Castable Resin,EasyCast HD Brown,0.05mm,8,80,13,0,0,Chitubox
+Siraya Tech,Fast,Grey,0.05mm,5,50,8,0,0,Chitubox
+Siraya Tech,Basic,Fast,0.05mm,5,30,6.5,0,0,Chitubox
+Siraya Tech,Basic,Easy,0.05mm,5,60,8,,,Chitubox
+Siraya Tech,High Temp,Sculpt,0.05mm,8,75,12,,,Chitubox
+Siraya Tech,High Temp,Sculpt,0.05mm,4,80,18,0,0,Chitubox
+Siraya Tech,Blu,Clear Blue,0.05mm,5,65,11,0,0,Chitubox
+Siraya Tech,Blu,Clear Blue,0.05mm,10,60,13,0,0,Chitubox
+Siraya Tech,Blu,Clear Blue,0.05mm,8,75,13,0,0,Chitubox
+custom,Elegoo Black 75% / Monocure Flex100 25%,Black,0.05mm,12,80,22,6.5,0,ChituBox
+Technology Outlet,Basic,Clear,0.05mm,8,70,8,0,0,ChituBox
+Sain Smart,Basic,Grey,0.05mm,6,65,6.5,0,0,ChituBox

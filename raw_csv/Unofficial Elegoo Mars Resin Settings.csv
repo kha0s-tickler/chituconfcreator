@@ -1,0 +1,98 @@
+,,,,,,,,,,,,
+Please try to keep this in alphabetical order - (Filter Added to Columns),,,,,,,,,,,,
+,,DON'T FORGET TO SHAKE YOUR RESIN!,,,,,,,,,,
+Manufacturer,Resin type,Resin description,Links,Layer height,Bottom layer count,Bottom exposure time (s),Exposure time (s),Light off delay (s),Bottom light off delay (s),Slicer,Contributor,Comments
+AmeraLabs,AMD-3,Coal Blk,Shop,0.05mm,4,45,5,0,0,ChiTuBox,GottLabs,
+Anycubic,Basic,Black,Amazon.ca,0.02mm,10,60,7,0,0,ChiTuBox,Michael Anton,Surface is not always perfect.  Perhaps the exposure times still need tweaking.  
+,Basic,Black,Amazon,0.05mm,8,70,11,0,0,ChiTuBox,Amanda,
+,"All Natural, No Odor",Violet,Amazon,0.05mm,6,72,10,0,0,ChiTuBox,Jroze,Colors *really* pop on this one. Medium-high detail resolution. Gonna test more colors
+,"All Natural, No Odor",Bright Green,Amazon,0.05mm,6,65,11,0,0,ChiTuBox,Jroze,Colors *really* pop on this one. Medium-high detail resolution. Gonna test more colors *On sale 
+,"All Natural, No Odor",Baby Blue,Amazon,0.05mm,6,70,10,0,0,ChiTuBox,Jroze,Colors *really* pop on this one. Medium-high detail resolution. Gonna test more colors
+,Basic,Skin Tone,Amazon,0.05mm,5,60,8,0,0,ChiTuBox,Sascha,Default settings work more or less perfectly
+,Basic,Maroon,Amazon,0.05mm,10,80,8,0,0,Chitubox,Andrea Fontana,
+,Basic,Aqua Blue,Amazon,0.05mm,6,60,12,0,0,Chitubox,Dan Williams,Came out perfect. 10 minutes in ultrasonic cleaning.
+,Basic,Translucent Yellow,Amazon.de,0.05mm,6,65,12,0,0,Chitubox,Xardasteo,
+,Basic,Orange,Amazon.de,0.05mm,8,75,8,0,0,Chitubox,Xardasteo,
+,Basic,Clear,Amazon,0.05mm,5,60,7,0,0,Chitubox,WeberCreativeCustoms,Alcohol only rinse (water clouds it immediately) with air cure. 
+,Basic,Grey,Amazon,0.04mm,6,60,12,0,0,Chitubox,Guillaume,
+,,,,,,,,,,,,
+BlueCast,Castable,Purple,stainless steel,0.05mm,5,65,11,0.2,1,Chitubox,Stefano,Castable Resin for pro users. Very easy to print n cast
+Dragon Resin ,Basic,Clear Blue,Atome3D,0.05mm,5,60,8,0,0,ChituBox,Laurent Chevalier,Worked Great!
+Elegoo,Basic,Clear,Amazon,0.05mm,8,65,7,0,0,ChituBox,3D Musketeers,"Default settings work just fine, strong prints"
+,Basic (ABS-Like),Clear,Amazon,0.05mm,5,70,18,0,0,ChituBox,Ryan Close,"18 Seconds Exposure, 5 Bottom Layers, and 70 Seconds per bottom layer worked perfectly for 2 prints so far."
+,Basic,Clear Red,Amazon,0.04mm,6,60,8,0,0,ChituBox,Fred Williams,
+,Basic (ABS-Like),Clear Red,Amazon,0.05mm,8,80,10,0,0,ChituBox,Troy Lonie,Worked very well.  It was my first print with this resin so I was being very conservative; I also slowed the speeds way down
+,Basic,Black 1,Amazon,0.05mm,5,60,8,0,0,ChituBox,Joshua Meehan,"Default Printer settings, custom supports zc yx. Rd/3 ist d. G*g xh6:"
+,Basic (ABS-Like),Clear Blue,Amazon,0.05,8,85,12,0,0,AnyCubic,,"First print worked well, will update if I make any adjustments"
+,Basic,Blue,Amazon,0.05mm,,,,0,0,Chitubox,Dstrbdmedic167/James S,Default settings and medium support. No fails yet 
+,Basic,Green,Amazon,0.05mm,5,60,8,0,0,Chitubox,Darren Poulson,Default settings and heavy supports
+,ABS-Like,Grey,Amazon,0.05mm,8,55,8,0,0,ChituBox,Mike Kiefer,
+,ABS-Like,Clear,Amazon,0.05mm,20,90,20,0,0,ChituBox,LeoPeink,Incredible difficulty to achieve concistency between prints. Long times to minimize fails.
+,Basic,Grey,Amazon,0.05mm,5,60,8,0,0,ChituBox,Altar Panzer,Standards
+,Basic,White e Traslucent(ale),Amazon,0.05mm,10,75,11,0,0,ChituBox,3D Musketeers,So far so good with the white. 
+,Basic,Skin,Amazon,0.05mm,6,65(70),9,0,0,Chitubox,Jroze,"Outstanding Mini Quality. 70s on bottom layer for the first print of that pool, 65s on the subsequent prints. This is my go-to"
+,Model - ODORLESSS,Ceramic Grey,Amazon,0.05mm,6,65,6,0,0,ChituBox,WeberCreativeCustoms,"Washes quickly and so cleanly. DO NOT CURE IN WATER OR IT CRACKS, much like how you wouldnt cure a normal resin in ipa."
+eSun,Basic,Translucent,Amazon,0.05mm,5,70,12,0,0,ChituBox,Luca,It's very importa to increase the Exposure from default
+,Bio,Black,Amazon,0.05mm,5,60,8,0,0,ChituBox   npotd,Joshua Meehan,"Very little odor, works great, but always a little tacky after curing. "
+,,,,,,,,,,,,
+,Standard,Orange,Amazon,0.05mm,5,60,8,0,0,ChituBox,Remus David,"Works great with the default settings, very little odor, mat finish is great"
+,Standard,Grey,Amazon,0.05mm,6,60,8,0,0,ChituBox,Mike Kiefer,"Make sure your supports are at least at 50%, otherwise may fail from time to time"
+,,,,,,,,,,,,
+Harzlabs,,Cherry,Amazon,0.05mm,8,85,11,0,0,ChituBox,Martin Falk-Hansen,"No odor and no shrinkage, perfect for precision printing"
+,,,,,,,,,,,,
+Hieha,Basic,Grey6,Amazon,0.05mm,5,60,8,0,0,ChituBox,AkumaMods,No odor and printed great
+,,,,,,,,,,,,
+iFun,Basic,Clear,Amazon,0.05mm,10,75,15,0,0,ChituBox,Jeff Turner,Very clear. Can sit outside for hours but takes long time to cure but no yellowing...beware...prone to spontaneous cracking
+,Toughness Resin,Gray,Amazon,,,,,,,,,
+,,,,,,,,,,,,
+LiqCreate Strong-X,Tough Resin,Grey,Amazon,0.05mm,2,120,23,2,0,ChituBox,Martin Falk-Hansen,"Worked great, Super strong resin. "
+,,,,,,,,,,,,
+Nova3D,Basic,Clear Green,Amazon,0.05mm,8,65,9,0,0,ChituBox,Kevin Eslinger,So far so good
+,Basic,Clear,Amazon,0.05mm,10,75,8,0,0,ChituBox,Taylor Eshelman,Works well for small and medium sized prints I've tried
+,,,,,,,,,,,,
+Monocure,Rapid,Green,Amazon,0.04mm,5,85,10,0,0,ChituBox,Fred Williams,"May be able to lower bottom exposure, I just like mine to stick good."
+Monocure,Rapid,Grey,Amazon,0.05mm,5,65,5,0,0,ChituBox,Nikolai Iakoubenia,"Testing minimum exposure time with Ameralabs print. Bottom debossed logo just about shows, embossed doesn't, might be able to go a bit lower but resin seems to be quite viscous and creates a ""melty"" overhang angle."
+MakerJuice WaxCast,Castable Resin,Orange,,0.025mm,5,90,30-50?,,,ChituBox,nmcvaugh,"Extremely finicky, but has potential. Closing in on settings that will work for my object, but have gotten mixed results. Requires .025mm to .03mm layers. Somewhere between 35 and 50 seconds per layer. Needs base layer on the build plate per VegOilGuy's Burn Castable Resin notes below. Adhesion to FEP is still a problem, testing RainX to see if this helps. "
+PhotoCentric 3D,Firm Resin DLP Printers,White,PhotoCentric,0.05mm,6,90,18,0,0,ChituBox,Brecht Kuppens,"Bought the DLP resin because the LCD version was not available. Primed the build plate, 2 layers. Good results, still some minor over-exposure on ameralabs town test piece."
+,Hard LCD resin,Black,PhotoCentric,0.05mm,4,48,15,4,4,ChiTuBox,Darragh Broadbent,Profile generated with guidance from published Photocentric literature. Excellent detail on the Ameralabs calibration part.
+,Flexible LCD resin,Black,PhotoCentric,0.05mm,8,120,17,5,5,ChiTuBox,Darragh Broadbent,Profile generated with guidance from published Photocentric literature. Missing the detail at the very top of the thin tower on Ameralabs calibration part.
+,Firm LCD resin,Black,PhotoCentric,0.05mm,4,48,12,4,4,ChiTuBox,Darragh Broadbent,"I have not personally tested this profile, however the other 2 profiles that have been provided by Photocentric work extremely well, so this one should be fine."
+PowerCast,Castable Resin,BURN Opaque - Green,PowerCast,0.05mm,8,80,14,0,0,ChituBox,VegOilGuy,"Make sure to prime the build plate by brushing on layers of the resin. 4 layers worked, but less may work. Casts beautifly"
+,,,,,,,,,,,,
+Prusa,Tough,White,Prusa shop,0.05mm,,,11,0,0,,Antti Miettinen,Initial test photon-resin-calibration gives me best 10-12s
+,Tough,Gray,Prusa shop,0.05mm,,,13,0,0,,Antti Miettinen,Initial test photon-resin-calibration gives me best 12-14s
+,,,,,,,,,,,,
+ResinWorks 3D,Castable Resin,EasyCast HD Brown,Cleaning and Curing,0.05mm,8,80,13,0,0,Chitubox,nmcvaugh,"Castable considerations apply - use a ludicrous amount of heavy supports, print vertically, use print bed adhesion technique such as a solid base layer to improve adhesion. Note curing instructions from manufacturer (see link)."
+Siraya Fast,Mid Tough Resin,Fast (Grey),Amazon,0.05mm,5,50,8,0,0,Chitubox,Mike Kiefer,Works like a charm. Needs only 20 to 25 degrees.
+,,,,,,,,,,,,
+Siraya Tech,Basic,Fast,Amazon,0.05mm,5,30,6.5,0,0,Chitubox,Uncle Jessy,"Very little odor with this resin, nice light grey color to it"
+,Basic,Easy,Amazon,0.05mm,5,60,8,,,Chitubox,Uncle Jessy,
+,High Temp,Sculpt,Amazon,0.05mm,8,75,12,,,Chitubox,3D Musketeers,"Worked great, parts not brittle"
+,High Temp,Sculpt,Amazon,0.05mm,4,80,18,0,0,Chitubox,Mark Mathews,"As per specs, quite brittle after curing."
+,,,,,,,,,,,,
+Siraya Tech Blu,Tough Resin,Blu,Amazon,0.05mm,5,65,11,0,0,Chitubox,Jeff Turner,Heated enclosure to 34 degrees.  Comes off build plate like a charm. VERY FLEXIBLE
+,Tough Resin,Blu,Amazon,0.05mm,10,60,13,0,0,Chitubox,Uncle Jessy,Worked Great!
+,,,,,,,,,,,,
+Siraya Tech Blu Clear,,Blu Clear,Amazon,0.05mm,8,75,13,0,0,Chitubox,Jeff Turner,Heated enclosure to 34 degrees.  Comes off build plate like a charm. VERY FLEXIBLE!  These numbers might be improvedwith more testing.  5 bottom layers at 65 sec was a little sketchy. 11 sec per layer worked but upped to 13 to be safe
+,Elegoo Black 75% / Monocure Flex100 25%,Black,Atome3D,0.05mm,12,80,22,6.5,0,ChituBox,Laurent Chevalier,Worked Great!
+,,,,,,,,,,,,
+Technology Outlet,Basic,Clear,,0.05mm,8,70,8,0,0,ChituBox,Amanda,"A bit smellier than others, but stays clear"
+,,,,,,,,,,,,
+Sain Smart,Basic,Grey,Amazon,0.05mm,6,65,6.5,0,0,ChituBox,differential_faw,one of the fastest cure times budget resins out there and less brittle than elegoo grey
+,,,,,,,,,,,,
+Discord,Resin Printing Discord,,,,,,,,,,,
+,,,,,,,,,,,,
+Other,,,,,,,,,,,,
+Compatible BACKUP USB - PNY,,,,,,,,,,,,
+PNY 128GB Attaché 4 (P-FD128ATT4-GE),Format to FAT32; Partition: PRIMARY,Amazon,Partition < 3GB,Allocation Size (ONLY):,,128 kb,256 kb,512 kb,,,,
+Wireless USB Printing,,,,,,,,,,,,
+Vilros Raspberry Pi Zero W Basic Starter,Instructions,Amazon,,,,,,,,,,
+,,,,,,,,,,,,
+Resin Vat,,Amazon,,,,,,,,,,
+,,,,,,,,,,,,
+LCD SCREEN,,Amazon,,,,,,,,,,
+,,,,,,,,,,,,
+VINYL SCREEN GASKET PROTECTOR,,Amazon,,,,,,,,,,
+,,,,,,,,,,,,
+"Adjustable height resin vat drainer - Fits Anycubic Photon, Elegoo Mars, EPAX X1, Prusa SL1",,,,,,,,,,,,
+https://www.thingiverse.com/thing:3841061,,,,,,,,,,,,
